@@ -4,7 +4,7 @@ body{
     padding: 7px;
     margin: none;
 }
-.card-body{
+.footer-body{
     display: flex;
     flex-direction: row;
     margin: none;
